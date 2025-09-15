@@ -39,7 +39,7 @@ Brilliant insights can emerge from any corner of the world, but current systems 
 
 This economic model transforms research from a zero-sum competition for scarce publication slots into a positive-sum ecosystem where every valuable contribution to human knowledge generates returns for its creator, while accelerating overall scientific progress through aligned incentives and reduced barriers to collaboration.
 
-By creating genuine value for all participants—researchers get better tools and fair compensation, students get interactive education, institutions get enhanced capabilities, and society gets faster scientific progress—the plan creates sustainable economic flows rather than relying on philanthropy or government funding alone. The plan explicitly addresses how to include researchers from the Global South, non-English speakers, and those with limited computational resources, making it truly universal rather than serving only elite institutions.
+By creating genuine value for all participants—researchers get better tools and fair compensation, students get interactive education, institutions get enhanced capabilities, and society gets faster scientific progress—the plan creates sustainable economic flows rather than relying on philanthropy or government funding alone.
 
 ## Open-Collaboration
 
