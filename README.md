@@ -15,7 +15,7 @@ The plan serves as the architectural blueprint of our attempt to change the dyna
 
 Unlike previous solutions to the problem of modern academia--which address a partial solutions, Open Knowledge Foundation recognizes the fact that academic infrastructure and knowledge is a distributed, interconnected phenomena. Therefore, one cannot truly decentralize knowledge without addressing the problem as a whole, which includes but is not restricted to knowledge validation, data standards, identity systems, economic incentives and technical infrastructures simultaneously.
 
-Th plan, weaves together cutting-edge technical solutions, with social innovations. While the first includes the libraries, platforms and software, the latter emphasizes on new forms of peer-review, educational monetization, reputation systems and knowledge as *free market*. It understands that sustainable change requires both technological capabilities and aligned human incentives.
+The plan, weaves together cutting-edge technical solutions, with social innovations. While the first includes the libraries, platforms and software, the latter emphasizes on new forms of peer-review, educational monetization, reputation systems and knowledge as *free market*. It understands that sustainable change requires both technological capabilities and aligned human incentives.
 
 Rather than demanding immediate abandonment of existing systems, the plan provides a migration pathways and integration bridges that allow researchers and institutions to gradually transition while maintaining their current capabilities. This ensures such revolutionary change acceptable by the community, and achievable. 
 
@@ -23,9 +23,6 @@ Rather than demanding immediate abandonment of existing systems, the plan provid
 
 Knowledge has value and it should be granted to the producer themselves. By creating a genuine value for all participants the plan creates sustainable economic flows rather than relying on philanthropy or government funding alone. It also shifts the perspective from *research is the paper* to *paper is a byproduct of research* as it allows micro developments in fields be apparent and economically valued.
 
-## Knowledge As Free Market
-
-Knowledge has value and it should be granted to the producer themselves. By creating a genuine value for all participants the plan creates sustainable economic flows rather than relying on philanthropy or government funding alone. It also shifts the perspective from _research is the paper_ to _paper is a byproduct of research_ as it allows micro developments in fields be apparent and economically valued. 
 
 Traditional academic publishing involves artificial scarcity around knowledge distribution, where journals capture the economy of research while researchers receive only career advancement tokens (prestige, citations, h-index). We invert this model by enabling researchers to directly monetize their knowledge contributions through multiple streams: educational distribution, community engagement and knowledge validation, and research itself. Our ecosystem values every meaningful contribution, it rewards the flow and progress instead of milestones. Academic knowledge work involves enormous amounts of "invisible labor"—peer reviewing, mentoring, code debugging, data cleaning, methodology refinement—that receives little recognition in traditional systems. By tokenizing all forms of knowledge contribution, we ensure that the researcher who spends time making their work reproducible, the expert who provides thoughtful peer review, and the educator who creates clear explanations all capture value proportional to their impact.
 
