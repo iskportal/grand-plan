@@ -1,6 +1,6 @@
 # Grand Plan
 
-Open-Knowledge Foundation's Grand Plan (code name: *Axiom*), represents the most comprehensive attempt to re-imagine and re-construct the entire infrastructure of human knowledge creation, validation, and distribution using modern, decentralized, and open-collaborative technologies. 
+Independent Society of Knowledge's Grand Plan (code name: *Axiom*), represents the most comprehensive attempt to re-imagine and re-construct the entire infrastructure of human knowledge creation, validation, and distribution using modern, decentralized, and open-collaborative technologies. 
 # About This repository
 
 The repository functions on multiple levels: as a systems engineering document detailing the interconnected software platforms and technologies required; as a strategic roadmap outlining the phased implementation of a complete ecosystem; and as a vision statement articulating how decentralized, open-source principles can be applied to solve fundamental problems in academic research and education.
@@ -13,7 +13,7 @@ The document is designed to evolve as a living blueprint, incorporating feedback
 
 The plan serves as the architectural blueprint of our attempt to change the dynamics of knowledge workflows and intellectual property development. At its core, the Grand Plan is an **ecosystem transformation strategy** that moves academic research from centralized, gatekept, and often inaccessible systems toward an open, collaborative, and economically sustainable network. It's built on the recognition that knowledge creation is inherently collaborative, yet current systems create artificial scarcities and barriers that slow scientific progress and limit participation.
 
-Unlike previous solutions to the problem of modern academia--which address a partial solutions, Open Knowledge Foundation recognizes the fact that academic infrastructure and knowledge is a distributed, interconnected phenomena. Therefore, one cannot truly decentralize knowledge without addressing the problem as a whole, which includes but is not restricted to knowledge validation, data standards, identity systems, economic incentives and technical infrastructures simultaneously.
+Unlike previous solutions to the problem of modern academia--which address a partial solutions, Independent Society of Knowledge recognizes the fact that academic infrastructure and knowledge is a distributed, interconnected phenomena. Therefore, one cannot truly decentralize knowledge without addressing the problem as a whole, which includes but is not restricted to knowledge validation, data standards, identity systems, economic incentives and technical infrastructures simultaneously.
 
 The plan, weaves together cutting-edge technical solutions, with social innovations. While the first includes the libraries, platforms and software, the latter emphasizes on new forms of peer-review, educational monetization, reputation systems and knowledge as *free market*. It understands that sustainable change requires both technological capabilities and aligned human incentives.
 
@@ -48,7 +48,7 @@ By applying the principles of Open-Collaboration, we aim to build the next-gener
 
 # Acknowledgements
 
-This document is provided with the effort of members of Open-Knowledge Foundation and Independent Society of Knowledge. 
+This document is provided with the effort of members of Independent Society of Knowledge and Independent Society of Knowledge. 
 
 ## Contact
 
